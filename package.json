@@ -1,0 +1,14 @@
+{
+  "name": "monnify",
+  "version": "1.0.0",
+  "description": "A simple app to test the monnify API",
+  "main": "index.js",
+  "author": "ngwobia, chukwudi mike",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "base-64": "^0.1.0",
+    "dotenv": "^8.2.0"
+  }
+}
